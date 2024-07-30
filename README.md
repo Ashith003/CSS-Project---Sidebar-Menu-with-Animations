@@ -45,7 +45,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any inquiries or feedback, please reach out to me at [ashithavgowda.com].
+For any inquiries or feedback, please reach out to me at [ashithavgowda@gmail.com].
 
 ---
 

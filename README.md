@@ -14,21 +14,7 @@ This project demonstrates a responsive sidebar menu with modern animations and s
 
 ## Demo
 
-![Project Demo](project.png)
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Ashith003/Project.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd css-project-sidebar-menu
-    ```
-
-3. Open `Camera Menu.html` in your web browser to view the project.
+![Project Demo](project.jpg)
 
 ## Usage
 
@@ -47,10 +33,6 @@ This project demonstrates a responsive sidebar menu with modern animations and s
 
 - [Google Fonts - Poppins](https://fonts.googleapis.com/css2?family=Poppins&display=swap)
 - [FontAwesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 
